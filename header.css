@@ -1,0 +1,33 @@
+
+.header{
+    background-color: black;
+    display: flex;
+    font-style: italic;
+    height:10vh;
+
+}
+.a{
+margin-left:550px; 
+
+}
+
+.text{
+    color:red;
+}
+.bold{
+    color:white;
+    font-style: italic;
+}
+
+.photography{
+    font-style: italic;
+    font-weight: bold;
+}
+.p{
+    color:white;
+}
+#dropdown-basic{
+    background-color:transparent;
+    border: transparent;
+    padding-top: 8px;
+}

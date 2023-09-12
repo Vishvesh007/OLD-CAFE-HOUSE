@@ -1,0 +1,57 @@
+.h1Galleries{
+    justify-content: center;
+    color:#8B4513 ;
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.h2Galleries{
+    color: #c58831;
+    font-style: italic;
+    font-weight:  solid;
+  
+    
+}
+.galleryjs{
+   
+    margin-top: 20px;
+  
+
+}.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px;
+    padding-right: 5px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 20%;
+    padding: 0px;
+  }
+  
+  .column img {
+    margin-top: 4px;
+    vertical-align: middle;
+  }
+  .h2pre{
+      margin-top:10px;
+      color: #c58831;
+
+     font-style: italic;
+     font-weight:  solid;
+     text-align: center;
+   
+  }
+ 
+
+  .h2link{
+    color: #c58831;
+
+  }
+  .h2link :hover{
+    color: #c58831;
+
+  }
+  
